@@ -1,6 +1,8 @@
 <div align="center">
 
-# Jordy David Pincay Murillo
+<h1>
+  <span style="text-shadow: 2px 2px 4px rgba(0,0,0,0.5)">jpincam7</span> | Jordy David Pincay Murillo
+</h1>
 ### Software Engineering Student | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-david-pincay-murillo-9029502b8/)
