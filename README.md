@@ -1,78 +1,60 @@
-# Hi 👋, I'm Jordy Pincay
-<h3 align="center">A passionate Software Engineering student from Ecuador 🇪🇨</h3>
+<div align="center">
+  
+# Jordy David Pincay Murillo
+### Software Engineering Student | Full Stack Developer
 
-## 🎓 Academic Background
-Currently pursuing a degree in Software Engineering at **Universidad Estatal de Milagro (UNEMI)**, where I'm developing a strong foundation in software development principles and practices.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-david-pincay-murillo-9029502b8/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpincaym7@unemi.edu.ec)
 
-## 💻 Technical Skills
+</div>
+
+## 🎓 Education
+- **Software Engineering Student** at Universidad Estatal de Milagro (UNEMI)
+- Focusing on Full Stack Development and Cloud Computing
+
+## 💻 Tech Stack
 
 ### Programming Languages
-- Python
-- JavaScript
-- C#
-- C++
-- TypeScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks & Tools
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: Django, Flask, Node.js
-- **Cloud Services**: Amazon Web Services (AWS)
-- **Databases**: PostgreSQL
+### Frameworks & Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Cloud & Database
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Statistics
 
-### Most Used Languages
-```mermaid
-pie
-    title "Language Distribution"
-    "Python" : 35
-    "JavaScript" : 30
-    "C#" : 20
-    "TypeScript" : 15
-```
+<div align="center">
 
-### Contribution Graph
-```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'primaryColor': '#051632',
-    'secondaryColor': '#3268a8'
-  }
-}}%%
-gantt
-    title GitHub Contributions
-    dateFormat  X
-    axisFormat %d
-    section 2024
-    Contributions     :a1, 0, 30
-    More Activity     :a2, 5, 25
-    Peak Period      :a3, 10, 20
-    Active Phase     :a4, 15, 30
-```
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact)
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/jordy-david-pincay-murillo-9029502b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordy-pincay" height="30" width="40" /></a>
-</p>
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
 
-## 📫 How to Reach Me
-- Academic Email: jpincaym7@unemi.edu.ec
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
-## 💡 About Me
-```javascript
-const aboutMe = {
-  currentlyWorking: "On innovative software projects",
-  learning: ["Cloud Architecture", "DevOps", "System Design"],
-  interests: ["Web Development", "Cloud Computing", "Software Architecture"],
-  technologies: {
-    backEnd: ["Python", "Node.js", "C#"],
-    frontEnd: ["React", "JavaScript", "TypeScript"],
-    cloud: ["AWS"],
-    databases: ["PostgreSQL"],
-  }
-};
-```
+</div>
+
+## 🌟 Featured Projects
+
+*The biography is in the projects, and when there are no projects, there is no biography either.*
+
+## 📫 Get in Touch
+- 💼 LinkedIn: [Jordy David Pincay Murillo](https://www.linkedin.com/in/jordy-david-pincay-murillo-9029502b8/)
+- 📧 Email: jpincaym7@unemi.edu.ec
 
 ---
-⭐️ From [jpincaym7]
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
