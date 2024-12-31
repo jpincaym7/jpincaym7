@@ -1,8 +1,5 @@
 <div align="center">
 
-<h1>
-  <span style="text-shadow: 2px 2px 4px rgba(0,0,0,0.5)">jpincam7</span> | Jordy David Pincay Murillo
-</h1>
 # Jordy David Pincay Murillo
 ### Software Engineering Student | Full Stack Developer
 
