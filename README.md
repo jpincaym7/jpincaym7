@@ -45,9 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jpincaym7&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </a>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpincaym7&theme=tokyonight" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jpincaym7&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
