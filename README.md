@@ -16,6 +16,8 @@
 <a href="mailto:jpincaym7@unemi.edu.ec">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=jpincaym7&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -32,33 +34,48 @@
 ### Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css" height="40" alt="Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=django,flask,nextjs,vuejs" />
+  <img src="https://skillicons.dev/icons?i=django,flask,nextjs,vuejs,react" height="40" alt="Frameworks" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,postgres,nodejs,tailwind" height="40" alt="Tools" />
 </a>
 
-<br/>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ovkx44iqlpdlgssgssafxvqqsq&unique=true" alt="Spotify Recently Played" />
 </div>
 
 <br/>
-
-</div>
 
 ## GitHub Analytics
 
 <div align="center">
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jpincaym7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" height="180" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpincaym7&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" height="180" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jpincaym7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
+</a>
+
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=jpincaym7&theme=tokyonight&locale=es" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jpincaym7&theme=tokyonight&locale=es&hide_border=true&background=00000000" width="100%" alt="GitHub Streak" />
 </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ovkx44iqlpdlgssgssafxvqqsq&unique=true" width="400" alt="Spotify Recently Played" />
 </div>
 
 <br/>
@@ -69,9 +86,11 @@
 
 <br/>
 
+---
+
 <div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* <br/>
-– Cory House
-
+  <br/>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+  <br/>
+  <b>– Cory House</b>
 </div>
