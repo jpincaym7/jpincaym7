@@ -6,10 +6,11 @@
 </picture>
 
 <br/>
+<br/>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="right" valign="middle">
+    <td align="right" valign="middle" style="padding-right: 20px;">
       <h1 style="margin: 0;">Jordy David Pincay Murillo</h1>
       <h3 style="margin: 0;">Software Engineering Student | Full Stack Developer</h3>
       <br/>
@@ -22,8 +23,9 @@
       <br/>
       <img src="https://komarev.com/ghpvc/?username=jpincaym7&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
     </td>
-    <td width="20"></td> <td align="left" valign="middle">
-      <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="120" alt="Kyubey" />
+    <td width="20"></td> 
+    <td align="left" valign="middle">
+      <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="130" alt="Kyubey" />
     </td>
   </tr>
 </table>
