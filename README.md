@@ -37,15 +37,7 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpincaym7&theme=tokyonight&layout=compact" alt="Most Used Languages" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpincaym7&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jpincaym7&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jpincaym7&theme=dark&locale=es)](https://git.io/streak-stats)
 
 </div>
 
