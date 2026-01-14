@@ -1,8 +1,7 @@
 <div align="center">
 
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=jpincaym7&theme=road_trip&pixelate_avatar=false" alt="Pixel Profile Stats" />
-  
-# jpincaym7 | Jordy David Pincay Murillo
+
 ### Software Engineering Student | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-david-pincay-murillo-9029502b8/)
