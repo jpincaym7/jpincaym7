@@ -31,14 +31,15 @@
 
 ### Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,cpp,py,django,flask,html,css,js,ts,nextjs,vuejs" />
-  </a>
-</p>
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=django,flask,nextjs,vuejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws" />
+</a>
 
-<br/>
+</div>
 
 ## GitHub Analytics
 
