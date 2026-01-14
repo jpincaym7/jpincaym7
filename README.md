@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c++,py,dj" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,py,djangp,flask" />
   </a>
 </p>
 </div>
