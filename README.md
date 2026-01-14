@@ -10,7 +10,7 @@
 # Jordy David Pincay Murillo
 ### Software Engineering Student | Full Stack Developer
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ovkx44iqlpdlgssgssafxvqqsq&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ovkx44iqlpdlgssgssafxvqqsq&unique=true)
 
 <a href="https://www.linkedin.com/in/jordy-david-pincay-murillo-9029502b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
