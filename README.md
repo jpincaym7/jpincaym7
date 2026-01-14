@@ -1,4 +1,6 @@
 <div align="center">
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=jpincaym7&theme=road_trip&pixelate_avatar=false" alt="Pixel Profile Stats" />
   
 # jpincaym7 | Jordy David Pincay Murillo
 ### Software Engineering Student | Full Stack Developer
