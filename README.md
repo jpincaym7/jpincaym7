@@ -56,9 +56,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpincaym7&theme=tokyonight&layout=compact" height="165" alt="Lenguajes más usados" />
-<img src="https://github-readme-stats.vercel.app/api?username=jpincaym7&show_icons=true&theme=tokyonight&count_private=true" height="165" alt="Estadísticas de GitHub" />
-
 <br/>
 
 <a href="https://git.io/streak-stats">
