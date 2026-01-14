@@ -1,6 +1,5 @@
 <div align="center">
   
-
 # jpincaym7 | Jordy David Pincay Murillo
 ### Software Engineering Student | Full Stack Developer
 
@@ -33,13 +32,24 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jpincaym7&theme=dark&locale=es)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpincaym7&theme=tokyonight&layout=compact" height="165" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api?username=jpincaym7&show_icons=true&theme=tokyonight&count_private=true" height="165" alt="Estadísticas de GitHub" />
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=jpincaym7&theme=tokyonight&locale=es" alt="GitHub Streak" />
+</a>
 
 </div>
+
+---
 
 ## 🌟 Featured Projects
 
