@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=jpincaym7&theme=road_trip&pixelate_avatar=false" alt="Pixel Profile Stats" />
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=jpincaym7&theme=road_trip&pixelate_avatar=false" width="100%" alt="Pixel Profile Stats" />
 
 ### Software Engineering Student | Full Stack Developer
 
@@ -45,7 +45,7 @@
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=jpincaym7&theme=tokyonight&locale=es" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jpincaym7&theme=tokyonight&locale=es" width="100%" alt="GitHub Streak" />
 </a>
 
 </div>
