@@ -37,11 +37,17 @@
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpincaym7&theme=tokyonight&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpincaym7&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+</a>
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=jpincaym7&show_icons=true&theme=tokyonight&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpincaym7&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpincaym7&theme=tokyonight" alt="GitHub Streak" />
+</a>
 
 </div>
 
