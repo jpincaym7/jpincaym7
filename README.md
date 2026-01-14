@@ -1,6 +1,9 @@
 <div align="center">
 
-<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jpincaym7&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb8265+0%25%2C+%231c1c4551+100%25%29%2C+url%28https%3A%2F%2Fi.ibb.co%2Fpjq7c2Lv%2Fanime-characters-collage-fun-desktop-wallpaper-preview.jpg%29&color=%23ffffffFF">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jpincaym7&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb8265+0%25%2C+%231c1c4551+100%25%29%2C+url%28https%3A%2F%2Fi.ibb.co%2Fpjq7c2Lv%2Fanime-characters-collage-fun-desktop-wallpaper-preview.jpg%29&color=%23ffffffFF">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=jpincaym7&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb8265+0%25%2C+%231c1c4551+100%25%29%2C+url%28https%3A%2F%2Fi.ibb.co%2Fpjq7c2Lv%2Fanime-characters-collage-fun-desktop-wallpaper-preview.jpg%29&color=%23ffffffFF" width="100%" alt="Pixel Profile Stats">
+</picture>
 
 ### Software Engineering Student | Full Stack Developer
 
