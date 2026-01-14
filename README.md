@@ -7,17 +7,26 @@
 
 <br/>
 
-# Jordy David Pincay Murillo
-### Software Engineering Student | Full Stack Developer
-
-<a href="https://www.linkedin.com/in/jordy-david-pincay-murillo-9029502b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:jpincaym7@unemi.edu.ec">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=jpincaym7&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="right" valign="middle">
+      <h1 style="margin: 0;">Jordy David Pincay Murillo</h1>
+      <h3 style="margin: 0;">Software Engineering Student | Full Stack Developer</h3>
+      <br/>
+      <a href="https://www.linkedin.com/in/jordy-david-pincay-murillo-9029502b8/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:jpincaym7@unemi.edu.ec">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=jpincaym7&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+    </td>
+    <td width="20"></td> <td align="left" valign="middle">
+      <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="120" alt="Kyubey" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -48,6 +57,21 @@
 ## GitHub Analytics
 
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jpincaym7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000" height="180" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpincaym7&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000" height="180" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jpincaym7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="Trophies" />
+</a>
 
 <br/>
 
