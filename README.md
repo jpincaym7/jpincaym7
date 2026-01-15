@@ -68,7 +68,7 @@
 <div align="center">
 <br/>
 
-<a href="https://u8views.com/github/jpincaym7"><img src="https://u8views.com/api/v1/github/profiles/119023862/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/jpincaym7"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpincaym7&theme=dark"></a>
 </div>
 
 <br/>
