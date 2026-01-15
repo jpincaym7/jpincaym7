@@ -68,8 +68,7 @@
 <div align="center">
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jpincaym7&theme=dark&locale=es" alt="GitHub Streak" /></a>
-
+<a href="https://u8views.com/github/jpincaym7"><img src="https://u8views.com/api/v1/github/profiles/119023862/views/day-week-month-total-count.svg"></a>
 </div>
 
 <br/>
