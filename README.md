@@ -66,18 +66,26 @@
 ## GitHub Analytics
 
 <div align="center">
-<br/>
+  <a href="https://github.com/jpincaym7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpincaym7&theme=dark" alt="Profile Details" />
+  </a>
 
-<a href="https://u8views.com/github/jpincaym7"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpincaym7&theme=dark"></a>
+  <br/>
+
+  <a href="https://github.com/jpincaym7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jpincaym7&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/jpincaym7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jpincaym7&theme=dark" alt="Top Languages" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <a href="https://spotify.com">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ovkx44iqlpdlgssgssafxvqqsq&unique=true" width="400" alt="Spotify Recently Played" />
+  </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ovkx44iqlpdlgssgssafxvqqsq&unique=true" width="400" alt="Spotify Recently Played" />
-</div>
-
-<br/>
 
 ## Featured Projects
 
