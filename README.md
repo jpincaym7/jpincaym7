@@ -68,9 +68,7 @@
 <div align="center">
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=jpincaym7&theme=tokyonight&locale=es&hide_border=true&background=00000000" width="100%" alt="GitHub Streak" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jpincaym7&theme=dark&locale=es" alt="GitHub Streak" /></a>
 
 </div>
 
